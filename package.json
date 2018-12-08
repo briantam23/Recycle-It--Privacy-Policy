@@ -1,13 +1,12 @@
 {
-    "name": "privacy-policy",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.html",
-    "scripts": {
-      "start": "node index.html"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC"
-  }
-  
+  "name": "privacy-policy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
